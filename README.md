@@ -14,7 +14,8 @@ Nesse projeto acredito que os desafios foram:
 
 Aprendi algumas coisas que poderam me ajudar em projetos mais a frente, como: Amaçador de latinhas, Abridor de porta e entre outros...
 
-### Recebendo Valor do Sensor
+
+## Recebendo Valor do Sensor
 
 ```c++
 ...
@@ -39,7 +40,7 @@ void loop() {
 
 }
 ```
-### ligando o motor comforme o Sensor indentifica.
+## ligando o motor comforme o Sensor indentifica.
 ```c++
 #include <Stepper.h>
 #define e1 2 // Definindo as entradas do motor
