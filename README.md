@@ -5,7 +5,7 @@ Este é meu primeiro projeto mexendo com [Sensor de detecção de moviento](http
 Nesse projeto eu fiz com que, ao passar a mão ou qualquer coisa na frente do Sensor, o motor começava a girar.
 
 ## Desafios
-
+  
 Nesse projeto acredito que os desafios foram:
 - Receber dadso do Sensor de Movimento
 - ligar o motor e fazelo funcionar
