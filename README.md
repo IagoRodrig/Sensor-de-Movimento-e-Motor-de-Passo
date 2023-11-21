@@ -40,7 +40,7 @@ void loop() {
 
 }
 ```
-## ligando o motor comforme o Sensor indentifica.
+## ligando o motor conforme o Sensor indentifica.
 ```c++
 #include <Stepper.h>
 #define e1 2 // Definindo as entradas do motor
